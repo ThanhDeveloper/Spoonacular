@@ -1,7 +1,8 @@
-package com.example.spoonacular
+package com.example.spoonacular.screen.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.spoonacular.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
